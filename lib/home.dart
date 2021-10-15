@@ -24,7 +24,7 @@ class _GigsPageState extends State<GigsPage> {
 
   ];
 
-  @overr
+  @override
   Widget build(BuildContext context) {
     
     return Scaffold(
