@@ -6,7 +6,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### Sheraz Mahar
+### Faiqe Mahar
 A sample app to showcase login-signup app using flutter. 
 
 # Demo
